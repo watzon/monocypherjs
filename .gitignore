@@ -1,0 +1,4 @@
+zig-cache/
+targets.txt
+*.o
+*.a
